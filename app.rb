@@ -18,6 +18,8 @@ class App < Sinatra::Base
   post '/checkout'
   
   erb :checkout
+end
+
   
   
 end
